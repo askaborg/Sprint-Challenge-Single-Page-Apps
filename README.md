@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Client-side routing allows for single-page-applications to be routed after initial loading.  No network requests are sent while routing within the client. Links that do not requre the backend can be routed offline.
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
